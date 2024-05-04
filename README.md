@@ -37,7 +37,7 @@ I work remotely and like to travel a lot.
 
 - 📍 &nbsp; Current location: Navoi, Uzbekiston
 - 📝 &nbsp; Ask me about anything, I am happy to help
-- 📨 &nbsp; How to reach me: [@AlimardonToshpulatov](https://t.me/AlimardonToshpulatov)
+- 📨 &nbsp; How to reach me: [Mohinur Raximova](https://t.me/raximova_oo6)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
 <img width="100%" src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" />
